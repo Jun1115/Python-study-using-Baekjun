@@ -47,3 +47,6 @@ for i in range(len(Str1_Set)):
 
 이렇게 뻘짓 했는데
 count() 를 사용했으면 간단하게 됐을 거였음..
+
+## 7
+VSCODE Ctrl 과 Alt 키를 누른 상태에서 키보드 방향키로 다중 선택이 가능
