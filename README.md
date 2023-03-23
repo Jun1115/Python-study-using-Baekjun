@@ -50,3 +50,20 @@ count() 를 사용했으면 간단하게 됐을 거였음..
 
 ## 7
 VSCODE Ctrl 과 Alt 키를 누른 상태에서 키보드 방향키로 다중 선택이 가능
+
+## 8 
+~~~
+사용법
+값 가져오기 : result = df.at['행', '열']
+값 설정하기 : df.at['행', '열'] = value
+
+예시
+먼저 아래와 같이 기본적인 2x2 행렬을 만듭니다.
+
+df = pd.DataFrame([[1,2], [3,4]], index=['row1', 'row2'], columns=['col1', 'col2'])
+print(df)
+>>
+     col1 col2
+row1   1    2 
+row2   3    4
+~~~
