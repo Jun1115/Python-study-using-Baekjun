@@ -74,3 +74,12 @@ row2   3    4
 ## 10
 Ctrl + Shift + L (같은 단어 한번에 모두 선택)
 Ctrl + Shift + L 단축키를 누르면, 선택한 단어와 같은 단어가 모두 선택됩니다.
+
+
+## 11
+에라토스테네스의 체 알고리즘
+-범위 속 소수 찾기
+~~~
+https://freedeveloper.tistory.com/392
+~~~
+
