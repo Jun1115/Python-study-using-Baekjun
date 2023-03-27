@@ -82,4 +82,4 @@ Ctrl + Shift + L 단축키를 누르면, 선택한 단어와 같은 단어가 �
 ~~~
 https://freedeveloper.tistory.com/392
 ~~~
-
+- 1은 소수도 합성수도 아니다
