@@ -83,3 +83,10 @@ Ctrl + Shift + L 단축키를 누르면, 선택한 단어와 같은 단어가 �
 https://freedeveloper.tistory.com/392
 ~~~
 - 1은 소수도 합성수도 아니다
+
+# 12
+삼각수 
+
+~~~
+http://sjoh.hannam.ac.kr/mathhis/triang/#:~:text=%EC%82%BC%EA%B0%81%EC%88%98%203%E8%A7%92%E6%95%B8%5Btriangular%20number%5D&text=%EB%8F%8C%EC%9D%84%20%EB%82%98%EB%9E%80%ED%9E%88%20%EB%86%93%EC%95%98%EC%9D%84,%EC%B4%9D%EC%88%98%EB%A5%BC%20%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94%20%EC%88%98%EC%97%B4%EC%9D%B4%EB%8B%A4.&text=%EC%B4%88%ED%95%AD%EC%9D%B4%201%2C%20%EA%B3%B5%EC%B0%A8%EA%B0%80,n%ED%95%AD%EC%9C%BC%EB%A1%9C%20%ED%95%98%EB%8A%94%20%EC%88%98%EC%97%B4.
+~~~
