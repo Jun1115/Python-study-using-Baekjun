@@ -103,3 +103,10 @@ TypeError: sequence item 0: expected str instance, int found
 ~~~
 https://hanamon.kr/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-time-complexity-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84/
 ~~~
+
+
+## 15
+시간복잡도 알고리즘 문제 이해가 안됨
+~~~
+https://www.acmicpc.net/problem/24267
+~~~
