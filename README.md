@@ -97,3 +97,9 @@ http://sjoh.hannam.ac.kr/mathhis/triang/#:~:text=%EC%82%BC%EA%B0%81%EC%88%98%203
 ~~~
 TypeError: sequence item 0: expected str instance, int found
 ~~~
+
+## 14
+시간복잡도에 대하여
+~~~
+https://hanamon.kr/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-time-complexity-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84/
+~~~
